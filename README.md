@@ -2,7 +2,7 @@
 
 ###
   <div align="center">
-    ![pavlos-nikou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlos-nikou&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![pavlos-nikou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlos-nikou&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   </div>
 ###
 <div align="center">
