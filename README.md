@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is Pavlos Nikou and I'm an undergraduate Electrical and Computers Engineer from Cyprus</h2>
 
 ###
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.0.0
+            
 ![pavlos-nikou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlos-nikou&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ###
 <div align="left">
