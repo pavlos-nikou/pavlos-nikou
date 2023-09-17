@@ -1,12 +1,8 @@
 <h2 align="left">Hi 👋! My name is Pavlos Nikou and I'm an undergraduate Electrical and Computers Engineer from Cyprus</h2>
 
 ###
-
-<divalign="center">
-  ![pavlos-nikou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavlos-nikou&theme=vue-dark&hide_border=true)
-</div>
-<divalign="center">
-  
+<div align="center">
+  ![pavlos-nikou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlos-nikou&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <div align="center">
