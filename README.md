@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Pavlos Nikou and I'm an undergraduate Electrical and Computers Engineer from Cyprus</h2>
 
+###
 
 ![pavlos-nikou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavlos-nikou&theme=vue-dark&hide_border=true)
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
