@@ -1,10 +1,7 @@
 <h2 align="left">Hi 👋! My name is Pavlos Nikou and I'm an undergraduate Electrical and Computers Engineer from Cyprus</h2>
 
 ###
-<div align="center">
   ![pavlos-nikou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlos-nikou&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
