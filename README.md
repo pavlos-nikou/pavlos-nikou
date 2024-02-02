@@ -3,7 +3,7 @@
 ###        
 ![pavlos-nikou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlos-nikou&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ###
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
